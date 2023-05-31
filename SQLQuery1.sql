@@ -1,0 +1,5 @@
+SELECT TOP (1000) [id]
+      ,[lastname]
+      ,[firstname]
+	  ,[pnumber]
+  FROM [Project].[dbo].[TableC]
